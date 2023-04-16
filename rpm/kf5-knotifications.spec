@@ -1,7 +1,7 @@
-%global kf5_version 5.104.0
+%global kf5_version 5.105.0
 
 Name: opt-kf5-knotifications
-Version: 5.104.0
+Version: 5.105.0
 Release: 1%{?dist}
 Summary: KDE Frameworks 5 Tier 2 solution with abstraction for system notifications
 
